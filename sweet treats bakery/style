@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.text_alignation {
+    text-align: center;
+}
+
+.bg_main_image {
+    background-image: url('https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/loading-data/niat_responsive/niat_coding_questions/multiple_column_layouts_practice_2_bg_1.jpg');
+    background-size: cover;
+
+}
+
+.four_image {
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+}
+
+.main_heading {
+    color: #ff6b6b;
+    font-family: Lobster;
+}
+
+.first_para {
+    color: #4ecdc4;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.secondary_heading {
+    color: #45b7d1;
+    font-family: Bree Serif;
+}
+
+.secondary_para {
+    color: #6c757d;
+    font-family: Bree Serif;
+}
+
+.button {
+    background-color: #ff6b6b;
+    border-radius: 6px;
+}
+
+.third_background {
+    background-color: rgb(102, 97, 97);
+    padding: 20px;
+    border-radius: 20px;
+    ;
+
+}
